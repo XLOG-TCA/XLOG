@@ -1,2 +1,0 @@
-# XLOG
-project xlog
